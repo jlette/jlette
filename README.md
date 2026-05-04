@@ -1,6 +1,6 @@
-- Étudiant en matère ingénierie du web à la recherche d'un contrat d'apprentissage. J'ai pour projet professionel d'obtenir un master et de travailler en cdi en tant que développeur full stask 
+- Étudiant en Mastère Dev Manager Full Stack à la recherche d'un contrat d'apprentissage. J'ai pour projet professionel d'être développeur senior, teach Lead, dev ops ou chef de projet.
 - Parcours 🎓 :
-    - (En cours) Mastère Ingénierie du Web à l'Ecole Supérieur De Génie Informatique  
+    - (En cours) Mastère Dev Manager Full Stack à l'EFREI
     - La Licence Professionnelle Métiers de l’Informatique : Applications Web
 (MIAW) Développement Avancé d’applications Web Intranet et Internet
 (DAW2I) 
@@ -8,30 +8,30 @@
 et applications métiers (SLAM) 
     - Bac pro Systèmes numériques option C réseaux informatiques et systèmes communicants (RISC)
     - Brevet d'études professionnelles
-- Langage utilisé 💻 :
+- Langage 💻 :
     - PHP
     - JAVA
     - MYSQL
     - CSS
     - HTML
     - JS
-- Framework utilisé 💻 :
+    - PYTHON
+- Framework 💻 :
     - BOOTSTRAP
     - LARAVEL
     - REACT JS
     - REACT NATIVE
-- Langage en cours d'appprentissage 💻 :
-    - POWER SHELL
-    - PYTHON 
-    - FLUTTER
-    - XML
-- Framework en cours d'apprentissage 💻 :
+    - ANGULAR
     - SYMFONY
-    - CORDOVA
-    - VUE JS
+    - LARAVEL
+    - FLUTTER
+- Langage en cours d'appprentissage 💻 :
+    - JS
+    - PYTHON 
+    - SPRING BOOT
+- Framework en cours d'apprentissage 💻 :
+    - ANGULAR
+    - SPRING BOOT
     - SASS
-- Cms en cours d'apprentissage 💻 :
-    -  WORDPRESS
-    -  JOOMLA
  
-plus d'info sur le programme de la formation -> https://www.iut-evry.fr/nos-formations/lp/lp-metiers-de-linformatique-applications-web/](https://www.esgi.fr/programmes/ingenierie-web.html)https://www.esgi.fr/programmes/ingenierie-web.html
+plus d'info sur le programme de la formation -> https://www.efrei.fr/formation/mastere-dev-manager-full-stack/
